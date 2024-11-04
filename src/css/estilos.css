@@ -4,6 +4,8 @@ body {
     font-family: "Poppins", sans-serif;
     color: #fff;
     padding: 30px 60px;
+    height: 100%;
+    background-size: cover;
 }
 
 .containaer {
@@ -23,6 +25,7 @@ body {
 
 .main {
     display: flex;
+    flex-wrap: wrap;
     gap: 60px;   
 }
 .main .info{
