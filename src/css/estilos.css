@@ -7,36 +7,27 @@ body {
     height: 100vh;
     background-size: cover;
 }
-
 .header {
     margin-bottom: 60px;
-
 }
-
 .header a img {
     max-width: 200px;
 }
-
 .main {
     display: flex;
-    gap: 60px; 
-   
+    gap: 60px;   
 }
-
 .main .info h1 {
     max-width: 400px;
+    margin: 40px 0 30px 0;
     font-weight: 500;
-    margin-bottom: 30px;
-    margin-top: 40px;
 }
-
 .main .info p {
     margin-bottom: 30px;
     font-weight: 300;
-    max-width: 550px;
     line-height: 26px;
+    max-width: 550px;
 }
-
 .main .info a {
     color: hsl(257, 40%, 49%);
     background-color: #fff;
@@ -44,7 +35,6 @@ body {
     border-radius: 20px;
     transition: 0.3s;
 }
-
 .main .info a:hover{
     background-color:hsl(300, 69%, 71%) ;
     color: #fff;
@@ -55,17 +45,16 @@ body {
 }
 
 .footer i {
-    border-radius: 50%;
-    color: #fff;
     display: inline-block;
+    width: 30px;
     height: 30px;
     line-height: 30px;
     margin: auto 3px;
-    width: 30px;
-    font-size: 15px;
-    text-align: center;
     border: 1px solid #fff;
-    margin-left: 7px;
+    border-radius: 50%;
+    font-size: 15px;
+    color: #fff;
+    text-align: center;
     transition: 0.3s;
 }
 .footer a:hover i{
