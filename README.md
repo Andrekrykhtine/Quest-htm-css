@@ -1,6 +1,6 @@
 
-  <h1>Página de Landing Huddle com Seção Introdutória</h1>
-  <p>Este projeto é uma página de landing page desenvolvida como solução para a primeira Quest do curso Dev Quest. Ele exibe um design moderno e simples para promover a plataforma Huddle, que enfatiza a construção de comunidades por meio de engajamento genuíno e discussões. A página é totalmente responsiva, garantindo uma boa visualização em diferentes dispositivos.</p>
+  <h1>Página de Landing Huddle </h1>
+  <p>Este projeto é uma página de landing page desenvolvida como solução para a primeira Quest do curso Dev Quest web fullstack. Nesse desafio foi testado o desenvolvimento de uma pagina web ultilizando linguagens de HTML e CSS. Ele exibe um design moderno e simples para promover a plataforma Huddle, que enfatiza a construção de comunidades por meio de engajamento genuíno e discussões. A página é totalmente responsiva, garantindo uma boa visualização em diferentes dispositivos.</p>
 
   <h2>Índice</h2>
   <ul>
