@@ -5,7 +5,9 @@ body {
     color: #fff;
     padding: 30px 60px;
     height: 100vh;
+    max-width: 1440px;
     background-size: cover;
+    margin: 0 auto;
 }
 .header {
     margin-bottom: 60px;
@@ -31,31 +33,37 @@ body {
 .main .info a {
     color: hsl(257, 40%, 49%);
     background-color: #fff;
-    padding: 10px 50px;
-    border-radius: 20px;
+    padding: 10px 70px;
+    border-radius: 25px;
     transition: 0.3s;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    
 }
 .main .info a:hover{
     background-color:hsl(300, 69%, 71%) ;
     color: #fff;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
 .footer {
     text-align: right;
+    display: flex;
+    justify-content: end;
 }
 
 .footer i {
     display: inline-block;
     width: 30px;
     height: 30px;
-    line-height: 30px;
-    margin: auto 3px;
+    line-height: 28px;
+    margin: auto 5px;
     border: 1px solid #fff;
     border-radius: 50%;
     font-size: 15px;
     color: #fff;
     text-align: center;
     transition: 0.3s;
+  
 }
 .footer a:hover i{
     color:hsl(300, 69%, 71%) ;
