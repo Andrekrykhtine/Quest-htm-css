@@ -67,4 +67,3 @@ cd huddle-landing-page
  
 </body>
 
-</html>
